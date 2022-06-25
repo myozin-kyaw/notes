@@ -1,0 +1,7 @@
+# ေပြာင်းရန်
+
+php version 
+laravel version
+require & require-dev depencies 
+
+
